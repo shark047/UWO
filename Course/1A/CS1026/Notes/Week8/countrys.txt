@@ -1,0 +1,7 @@
+Canada 31
+Cuba 24
+South Korea 15
+China 34
+India 51
+United Kingdom 29
+Japan 51
